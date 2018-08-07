@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sort
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lebron
+Implementation-Vendor-Id: com.lebron.sort
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sort
+Created-By: Maven Integration for Eclipse
+
